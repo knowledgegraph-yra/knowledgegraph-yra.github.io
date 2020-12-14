@@ -1,1 +1,1 @@
-# knowledgegraph-yra
+# ナレッジグラフ若手の会のホームページです
