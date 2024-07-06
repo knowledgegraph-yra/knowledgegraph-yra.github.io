@@ -5,6 +5,7 @@ html {
   min-height: 100%;
 }
 body {
+  /* display: flex; */
   /* Margin bottom by footer height */
   margin-bottom: 60px;
 }
@@ -16,6 +17,10 @@ body {
   height: 60px;
   background-color: #f5f5f5;
 }
+
+/* .max-height {
+  height: 100%;
+} */
  
  
 /* Custom page CSS
