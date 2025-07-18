@@ -21,7 +21,6 @@ a.btn_22 {
 	color: #fff;
 	border-radius: 5px;
 	transition: 0.5s;
-	animation: move_d 2s infinite;
 	box-shadow: 0 5px 0 rgb(6, 134, 178, 1);
 	position: relative;
 }
